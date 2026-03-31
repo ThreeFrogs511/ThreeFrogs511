@@ -26,4 +26,4 @@ Built with: Next.js 16 · TypeScript · PostgreSQL · Prisma · Vercel
 
 Open to remote / hybrid roles in Europe — including relocation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/nicolas-lavarde-68999837b/)
