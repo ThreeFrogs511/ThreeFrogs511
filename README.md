@@ -1,29 +1,38 @@
 # Hey, je suis Nicolas 👋
 
-Junior full-stack developer based in France, looking for remote or hybrid opportunities in Europe.
+Full-stack developer based in France, open to on-site, hybrid, or remote roles across Europe — including relocation.
 
-I build with **JavaScript / TypeScript**, **React**, **Next.js** — and I'm getting comfortable with the full stack (APIs, databases, auth).
+I build with **TypeScript**, **React**, **Next.js**, and **PostgreSQL** — comfortable across the full stack, from architecture to production deployment.
 
 ---
 
-## 🚀 Main project — Questmaker
+## 🚀 Main project — Questmaker2
 
-A productivity app with an RPG layer on top. Users create a D&D avatar, complete real-life tasks as "quests" to earn in-game coins, and spend them on items. A text-based campaign is integrated.
+A full-stack productivity app with a D&D RPG layer: complete real-life tasks as quests to earn coins, gear up at the shop, and play a branching text campaign with turn-based combat — all as your own character.
 
-→ **[questmaker2.vercel.app](https://questmaker2.vercel.app)** · [GitHub repo](https://github.com/ThreeFrogs511/questmaker2)
+→ **[Live demo](https://questmaker2.vercel.app)** · **[Source code](https://github.com/ThreeFrogs511/questmaker2)**
 
-Built with: Next.js 16 · TypeScript · PostgreSQL · Prisma · Vercel
+Built with: Next.js 16 (App Router) · TypeScript · PostgreSQL (Neon) · Zustand · Docker · Vercel
+148 commits · ~9,400 lines of TypeScript · 18 REST endpoints · custom session auth & CSRF protection
+
+---
+
+## 🧠 Open source — SubCortexMesh
+
+Contributed to a neuroscience visualization package published on PyPI: solved a structural occlusion problem across 19 brain structures (~95,000 merged vertices) using PCA-based automatic orientation.
+
+→ **[Repo](https://github.com/chabld/SubCortexMesh)** · `pip install subcortexmesh` · documented on ReadTheDocs
 
 ---
 
 ## 🛠️ Stack
 
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `SQL` `PHP` `Git`
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `PostgreSQL` `Python` `PHP` `Docker` `Git`
 
 ---
 
 ## 📬 Let's connect
 
-Open to remote / hybrid roles in Europe — including relocation.
+Open to on-site, hybrid, or remote roles across Europe — including relocation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/nicolas-lavarde-68999837b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nicolas-lavarde-68999837b/)
