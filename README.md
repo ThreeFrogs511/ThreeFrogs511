@@ -2,7 +2,7 @@
 
 Full-stack developer based in France, open to on-site, hybrid, or remote roles across Europe — including relocation.
 
-I build with **TypeScript**, **React**, **Next.js**, and **PostgreSQL** — comfortable across the full stack, from architecture to production deployment.
+I build with **TypeScript**, **React**, **Next.js**, **Python** and **PostgreSQL** — comfortable across the full stack, from architecture to production deployment.
 
 ---
 
